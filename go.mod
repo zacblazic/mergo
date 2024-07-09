@@ -1,4 +1,4 @@
-module dario.cat/mergo
+module github.com/zacblazic/mergo
 
 go 1.13
 
